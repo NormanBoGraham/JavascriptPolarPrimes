@@ -1,0 +1,11 @@
+
+In Javascript, Convert from Polar Co-ordinates to Cartesian use these equations: 
+     x = r * cos (angle)
+     y = r * sin (angle)
+   where, angle is in radians (not degrees).   
+
+ 
+360 degrees = 6.28319 radians.
+
+Primes are at the polar quardinate radius + something, to make them expand outward the greater the number. 
+and at the angle, prime%360.   
